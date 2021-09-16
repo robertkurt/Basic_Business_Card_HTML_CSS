@@ -1,0 +1,67 @@
+.fundo{
+    background-image: url(Imagens/backfundo2.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+#robert{
+    width: 15%;
+    height: 15%;
+    margin-left: 150px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: 5px #009FE3 solid ;
+    border-radius: 50%;
+}
+h1{
+    color: #009FE3;
+    font-family: quicksand;
+    margin-left: 85px;
+    font-size: 60px;
+    margin-bottom: -15px;
+    margin-top: 0%;
+    font-weight: 800;
+}
+h4{
+    color: #009FE3;
+    font-family: quicksand;
+    margin-left: 150px;
+    font-size: 30px;
+    margin-top: 0%;
+    font-weight: 500;
+}
+#git{
+    list-style-image: url(Imagens/github2.png);
+    margin-left: 80px;
+    margin-top: 5px;
+}
+#beh{
+    list-style-image: url(Imagens/behance2.png);
+    margin-left: 80px;
+    margin-top: 5px;
+}
+#lin{
+    list-style-image: url(Imagens/linkedin2.png);
+    margin-left: 80px;
+    margin-top: 5px;
+}
+#ins{
+    list-style-image: url(Imagens/instagram2.png);
+    margin-left: 80px;
+    margin-top: 5px;
+}
+.todos{
+    text-decoration: none;
+    color: #009FE3;
+    list-style-position: inside;
+    font-size: 50px;
+    font-family: quicksand;
+    font-weight: 400;
+}
+.todos:hover{
+    background: #009FE3;
+    color: white;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
